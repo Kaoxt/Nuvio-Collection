@@ -1,4 +1,4 @@
-For support, please visit Reddit: https://www.reddit.com/r/Nuvio/comments/1ubfa00/comment/osw4u8s/?force-legacy-sct=1
+For support, please visit: https://www.reddit.com/r/Nuvio/comments/1ubfa00/kaoxt_collection_v10/
 
 Here is the categorized list of all the content "folders" (catalogs and collections):
 ### Discover
