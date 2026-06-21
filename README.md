@@ -1,5 +1,7 @@
 For support, please visit: https://www.reddit.com/r/Nuvio/comments/1ubfa00/kaoxt_collection_v10/
 
+Suggestions or Bug Fixes: https://tally.so/r/684OPN
+
 Here is the categorized list of all the content "folders" (catalogs and collections):
 ### Discover
  * Recommended (Movies)
@@ -25,7 +27,7 @@ Here is the categorized list of all the content "folders" (catalogs and collecti
  * Top 10 on Apple TV+ Today (Movies)
  * Top 10 on Apple TV+ Today (Series)
  * New on Apple TV (Movies)
- * New on Apple TV (Series)
+ * New on https://tally.so/r/684OPNApple TV (Series)
  * Apple TV+ (Movies)
  * Apple TV+ (Series)
 **HBO Max**
