@@ -27,7 +27,7 @@ Here is the categorized list of all the content "folders" (catalogs and collecti
  * Top 10 on Apple TV+ Today (Movies)
  * Top 10 on Apple TV+ Today (Series)
  * New on Apple TV (Movies)
- * New on https://tally.so/r/684OPNApple TV (Series)
+ * New on Apple TV (Series)
  * Apple TV+ (Movies)
  * Apple TV+ (Series)
 **HBO Max**
@@ -229,6 +229,18 @@ Here is the categorized list of all the content "folders" (catalogs and collecti
  * BAFTA Winners
  * Cannes Film Festival Winners
  * Venice Film Festival Winners
+### Anime
+* Popular 
+* Top Rated
+* Premieres
+* Studio Ghibli
+* Dragon Ball
+* Bleach
+* One Piece
+* Naruto
+* Gundam
+* My Hero Academia
+* Detective Conan
 ### Based On...
  * Based on Video Games
  * Based on Comic Books (Movies & Series)
